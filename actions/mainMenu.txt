@@ -1,0 +1,5 @@
+Welcome to FilmFlix database manager.
+Enter:
+1. To manage films in the database.
+2. To search films in the database.
+3. Exit the FilmFlix database manager.

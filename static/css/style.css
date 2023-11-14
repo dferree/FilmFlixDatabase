@@ -1,0 +1,21 @@
+h1 {
+  border-bottom: 2px #eee solid;
+  color: rgb(66, 173, 212);
+  text-align: center;
+  padding: 10px;
+}
+
+h2{
+  color: rgb(102, 204, 241);
+}
+
+.buttons-section{
+  display: flex;
+  justify-content: space-between;
+}
+
+.headings{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

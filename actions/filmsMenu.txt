@@ -1,0 +1,7 @@
+The Films Menu options
+Enter:
+1. Print all films.
+2. Add a film.
+3. Update a film.
+4. Delete a film.
+5. Go back to main menu.

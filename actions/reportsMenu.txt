@@ -1,0 +1,7 @@
+The Films Report Menu options
+Enter:
+1. Print all Films in ascending order of Title.
+2. Search for a Genre.
+3. Search for a Year.
+4. Search for a Rating.
+5. Return to main menu.
